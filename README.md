@@ -1,2 +1,0 @@
-# julia
-Visualizing Julia Sets
